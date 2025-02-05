@@ -5,6 +5,8 @@
 
   <introduction>
     <p> Text before the first section. Can I see changes? it seems that I can. </p>
+
+    <p> This is the test for branching.</p>
   </introduction>
 
   <!-- include sections -->
