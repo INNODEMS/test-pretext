@@ -7,6 +7,8 @@
     <p> Text before the first section. Can I see changes? it seems that I can. </p>
   </introduction>
 
+
+  <p>testing in main branch</p>
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
 
